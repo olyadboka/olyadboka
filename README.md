@@ -11,6 +11,12 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="20" />
+  <img width="20" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4W4k4zseh-AKurUNiz98TiScprGtQNykdQ&s" height="50" alt="typescript logo"  />
+  <img width="20" />
+  <img width="20" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0e5tlryFp3zf2YyQ6fF6reTsNPrUYUbU4w&s" height="50" alt="typescript logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
