@@ -31,9 +31,12 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="120" alt="java logo"  />
   <img width="20" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" alt="nestjs logo" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRJh1ziIV8q214pk4iybhaHKTbYRiAaXUoQ&s" height="120" alt="nestjs logo" />
+  <img width="20" />
+  <img width="20" />
+ <img src="https://nestjs.com/img/nest-og.png" height="50" alt="nestjs logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="20" />
