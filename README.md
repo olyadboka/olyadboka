@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Olyad Boka!<br>Software Engineer | Backend Dev | Mobile APP Dev</h2>
+<h2 align="left">Hi, I'm Olyad Boka!<br>Software Engineer | Backend Dev | DevOps Engineer</h2>
 
 ###
 
