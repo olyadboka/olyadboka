@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Olyad Boka!<br>Software Engineer | Backend Dev | DevOps Engineer</h2>
-<h3  align="left">Protfolio: https://olyad-portfolio-f1tl.vercel.app/</h3>
+<h3  align="left">Portfolio: https://olyad-portfolio-f1tl.vercel.app/</h3>
 
 ###
 
