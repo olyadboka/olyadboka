@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Olyad Boka!<br>Software Engineer | Backend Dev | DevOps Engineer</h2>
-<h3  align="left">Portfolio: https://olyad-portfolio-f1tl.vercel.app/</h3>
+<h3 align="left">Portfolio: https://olyad-portfolio-f1tl.vercel.app/</h3>
 
 ###
 
@@ -64,7 +64,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   <img width="20" />
-
 </div>
 
 ###
@@ -79,3 +78,10 @@
 </div>
 
 ###
+
+## 🔥 GitHub Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=olyadboka&theme=radical&hide_border=true&timezone=Africa/Addis_Ababa&from=2023-01-01&ring=FFB1C2&fire=FFB1C2&currStreakLabel=FFB1C2" alt="GitHub Streak" />
+</div>
+
