@@ -77,11 +77,5 @@
   </a>
 </div>
 
-###
 
-## 🔥 GitHub Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=olyadboka&theme=radical&hide_border=true&timezone=Africa/Addis_Ababa&from=2023-01-01&ring=FFB1C2&fire=FFB1C2&currStreakLabel=FFB1C2" alt="GitHub Streak" />
-</div>
 
